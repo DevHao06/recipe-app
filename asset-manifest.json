@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DevHao06/recipe-app.git/static/css/main.910a9eeb.chunk.css",
+    "main.js": "/DevHao06/recipe-app.git/static/js/main.b5c23839.chunk.js",
+    "main.js.map": "/DevHao06/recipe-app.git/static/js/main.b5c23839.chunk.js.map",
+    "runtime-main.js": "/DevHao06/recipe-app.git/static/js/runtime-main.55b4945f.js",
+    "runtime-main.js.map": "/DevHao06/recipe-app.git/static/js/runtime-main.55b4945f.js.map",
+    "static/js/2.07029cd7.chunk.js": "/DevHao06/recipe-app.git/static/js/2.07029cd7.chunk.js",
+    "static/js/2.07029cd7.chunk.js.map": "/DevHao06/recipe-app.git/static/js/2.07029cd7.chunk.js.map",
+    "index.html": "/DevHao06/recipe-app.git/index.html",
+    "precache-manifest.7c43515d08de5aee503af636f1e465f5.js": "/DevHao06/recipe-app.git/precache-manifest.7c43515d08de5aee503af636f1e465f5.js",
+    "service-worker.js": "/DevHao06/recipe-app.git/service-worker.js",
+    "static/css/main.910a9eeb.chunk.css.map": "/DevHao06/recipe-app.git/static/css/main.910a9eeb.chunk.css.map",
+    "static/js/2.07029cd7.chunk.js.LICENSE.txt": "/DevHao06/recipe-app.git/static/js/2.07029cd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55b4945f.js",
+    "static/js/2.07029cd7.chunk.js",
+    "static/css/main.910a9eeb.chunk.css",
+    "static/js/main.b5c23839.chunk.js"
+  ]
+}
